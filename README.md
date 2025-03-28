@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My Name is Yash, and I'm in Second Year of Mechanical Engineering, interested in all sots of robotics oriented projects, Python, Machine Learning and Data Science!
+- 🔭 I’m currently working on HexaPod Bot 
+- 🌱 I’m currently learning Data Structure and Machine Learning 
+- 👯 I’m looking to collaborate on Discord server!
+  - Send me ideas to yashparab.699@gmail.com 
 <!--
 **YashParab699/YashParab699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
