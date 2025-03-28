@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Yash, and I'm in Second Year of Mechanical Engineering, interested in all sots of robotics oriented projects, Python, Machine Learning and Data Science!
+My Name is Yash, and I'm in Second Year of Mechanical Engineering, interested in all sots of robotics oriented projects, Python, Machine Learning and DSA!
 - 🔭 I’m currently working on HexaPod Bot 
 - 🌱 I’m currently learning Data Structure and Machine Learning 
 - 👯 I’m looking to collaborate on Discord server!
